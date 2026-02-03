@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: pink;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.buttons {
+  margin-top: 40px;
+}
+
+button {
+  font-size: 20px;
+  padding: 15px 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#yes {
+  background-color: #ff4d6d;
+  color: white;
+}
+
+#no {
+  background-color: #555;
+  color: white;
+}
